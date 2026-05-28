@@ -4,7 +4,7 @@ layout: default
 group: home
 ---
 
-<h1 class="text-center">Emily Hu</h1>
+<h1 class="text-center">Emily Yun-Qian Hu</h1>
 <h2 class="text-center">C-CoMP Bridge-to-PhD Fellow</h2>
 
 <p class="lead text-justify">
